@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2022;<br>📚 I'm currently learning all programming languages;<br>🎯 Goals: Be a high-class programmer;<br>🎲 Fun fact: I'm always learning.</p>
 
 ###
 
