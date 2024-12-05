@@ -3,7 +3,7 @@ Hello World👋
 
 
 
-<p align="left">My name is Caio Eduardo and I'm 20, from Rio de Janeiro Brazil</p>
+<p align="left">My name is Caio Eduardo and I'm 20, from Rio de Janeiro, Brazil</p>
 
 ###
 
